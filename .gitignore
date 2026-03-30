@@ -1,0 +1,6 @@
+results/*.json
+results/*.html
+__pycache__/
+*.pyc
+.env
+ANTHROPIC_API_KEY
