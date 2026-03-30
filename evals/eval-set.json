@@ -1,0 +1,22 @@
+[
+  {"query": "Redesign the hero section of ipak.dev landing page", "should_trigger": true},
+  {"query": "Build the About section for ipak.dev with animated timeline", "should_trigger": true},
+  {"query": "Create a new component for the services section on ipak.dev", "should_trigger": true},
+  {"query": "Implement the navigation header for ipak.dev", "should_trigger": true},
+  {"query": "Add staggered animations to the ipak.dev homepage", "should_trigger": true},
+  {"query": "Update the color palette and typography on ipak.dev", "should_trigger": true},
+  {"query": "Build a contact form with magnetic hover effects for ipak.dev", "should_trigger": true},
+  {"query": "Redesign ipak.dev mobile layout", "should_trigger": true},
+  {"query": "Create a dark luxury UI for the ipak.dev projects section", "should_trigger": true},
+  {"query": "Fix the CSS grid layout on the ipak.dev landing page", "should_trigger": true},
+  {"query": "Restart the ipak-chatbot Docker container", "should_trigger": false},
+  {"query": "Check nginx config for ipak.dev domain routing", "should_trigger": false},
+  {"query": "Update the SSL certificate for ipak.dev", "should_trigger": false},
+  {"query": "Run the database backup script", "should_trigger": false},
+  {"query": "Add a new route to the slotiq API", "should_trigger": false},
+  {"query": "Check server disk usage and memory", "should_trigger": false},
+  {"query": "Deploy the chatbot update via docker-compose", "should_trigger": false},
+  {"query": "Write a Python script to parse JSON logs", "should_trigger": false},
+  {"query": "Update HCP HomeOffice morning script", "should_trigger": false},
+  {"query": "Fix bug in the chatbot API endpoint", "should_trigger": false}
+]
